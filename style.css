@@ -1,0 +1,10 @@
+.carousel-item img{
+  height: 100vh;
+  /* vh, vw */
+  /* viewport height viewport width */
+  /* 창크기에 비례하여 크기 조절 */
+}
+nav{
+  z-index: 1;
+  /* width: 100px; */
+}
